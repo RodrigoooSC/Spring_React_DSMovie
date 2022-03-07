@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", // Permite definir um diretório base para achar os arquivos dentro de src
     "target": "es5",
     "lib": [
       "dom",
