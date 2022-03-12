@@ -1,8 +1,8 @@
 # <img src="frontend/public/favicon.ico" width="40px" height="40px" /> DSMovie
 
-Oi pessoal, tudo bem? 🖖🏽 este foi projeto desenvolvido na semana Spring React do Prof. <a href="https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br">Nelio Alves</a> - 
-<a href="https://devsuperior.com.br/">DevSuperior</a>
-- Acesse o aplicativo e deixe sua avaliação - <a href="https://dsmovies-rodrigo.netlify.app/">DSMovie</a>
+Oi pessoal, tudo bem? 🖖🏽 este foi projeto desenvolvido na semana Spring React do Prof. <a href="https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br" target="_blank">Nelio Alves</a> - 
+<a href="https://devsuperior.com.br/" target="_blank">DevSuperior</a>
+- Acesse o aplicativo e deixe sua avaliação - <a href="https://dsmovies-rodrigo.netlify.app/" target="_blank">DSMovie</a>
 
 ## # Sobre o projeto 📚
 
