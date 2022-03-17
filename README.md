@@ -7,7 +7,7 @@ Fala pessoal, tudo bem?🖖🏽 Esse projeto foi desenvolvido na semana Spring R
 
 O projeto é um aplicativo de catálogo de filmes que possui dois casos de uso:
 - Listagem dos filmes paginada ->  usuário navega pelas páginas contendo os filmes.
-- Avaliar os filmes -> usuário clica em avaliar e é direcionado para uma página de avaliação onde o mesmo preenche um e-mail válido e uma nota(1 a 5), logo após o envio das informações
+- Avaliar os filmes -> usuário clica em avaliar e é direcionado para uma página de avaliação onde o mesmo preenche um e-mail válido, uma nota(1 a 5) e clica em salvar, logo após o envio das informações
 a média das avaliações e atualizada e mostrada na listagem dos filmes.
 
 ## # Etapas do projeto 🧩
